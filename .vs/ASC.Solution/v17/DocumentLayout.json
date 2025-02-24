@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TH_TKPM\u0026KT\\b\u00E0i lap 1\\ASC.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|d:\\th_tkpm\u0026kt\\b\u00E0i lap 1\\asc.solution\\asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\TH_TKPM\u0026KT\\b\u00E0i lap 1\\ASC.Solution\\ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\TH_TKPM\u0026KT\\b\u00E0i lap 1\\ASC.Solution\\ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAFcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T13:47:41.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
